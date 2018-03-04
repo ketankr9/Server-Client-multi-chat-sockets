@@ -1,6 +1,6 @@
 # Multi Client Python Chat Socket
 
-## To start:
+# To start:
 * ```python server.py```
 * ```python client localhost 9099```
 * Mutiple chat clients can be started.
